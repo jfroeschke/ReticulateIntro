@@ -1,2 +1,2 @@
 # ReticulateIntro
-getting start with python with reticulate
+getting started with python with reticulate
